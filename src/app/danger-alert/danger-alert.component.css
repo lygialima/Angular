@@ -1,0 +1,5 @@
+.alert-danger p {
+    color: purple;
+    font-size: 2rem;
+    text-align: center;
+}
